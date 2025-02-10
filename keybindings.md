@@ -18,6 +18,7 @@
 - 📁 `Space e` → File explorer
 - 🔍 `Space space` → Fuzzy finder
 - ℹ️ `i` → File info in explorer
+- `Ctrl + /` to open terminal in neovim
 
 ---
 
@@ -94,6 +95,7 @@
   - `christoomey/vim-tmux-navigator`
   - `tmux-plugins/tmux-resurrect`
 - 🔒 `Ctrl + G` → Lock Zellij for Tmux
+- `Ctrl + a then t` to check time in tmux
 
 ### 📂 Tmux Session Management
 
@@ -109,6 +111,7 @@
 - 🔀 Resize with `Ctrl + B` then `Ctrl + Arrows`
 
 ### 🛠️ Custom Scripts (File Paths)
+
 - **Save:** `~/scripts/save_tmux_session.sh`
 - **Restore:** `~/scripts/restore_tmux_session.sh`
 - **List:** `~/scripts/list_saved_sessions.sh`
@@ -135,4 +138,3 @@ bind l run "bash ~/scripts/list_saved_sessions.sh"
 - 📏 Resize panes: `Ctrl + B` + `Ctrl + Arrow`
 - 🔧 Install/uninstall plugins inside Tmux
 - 🏗️ `tmux` again for a new session
-
