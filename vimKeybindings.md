@@ -16,7 +16,7 @@
 - **👇** `ctrl + f` → Move forward one page
 - **👆** `ctrl + b` → Move backward one page
 - `Ctrl + u` → Scroll up half a page
-- `Ctrl + d` → Scroll down half a page 
+- `Ctrl + d` → Scroll down half a page
 
 ## ✏️ Editing
 
